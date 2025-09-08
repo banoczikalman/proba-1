@@ -1,10 +1,10 @@
 # proba-1
 ez egy proba repository
 ééééééééééééééééééééééééééé
-sssssssssss<br>ssss
+sss<br>ssssss<br>ss<br>ss<br>ss
 ssssssssssssssss
-wwwwwwwwwwwwwwww
-ssssssssssssss
+wwwwww<br><br>wwwwwwwwww
+ssss<br><br>ssssssssss
 eeeeeeeeeeeee
 rrrrrrrrrrrrrrrr
 44444444444444
@@ -12,4 +12,5 @@ rrrrrrrrrrrrrrrr
 ez a linkem [ www.youtube.com]
 # cim második
 link második : [ www.facebook.com ]
-[webolalam] ˙˙˙˙(https://sulla.hu)
+[webolalam] ˙˙<br>˙˙(https://sulla.hu)
+# szóköz kiemelése <br><br> break és sortörés [www.youtube.com]
